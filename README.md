@@ -1,7 +1,7 @@
 # Analyzing 120 Years of Olympic Data Using PowerPI
 For over 120 years, the Olympic Games have showcased incredible performances, historic moments, and evolving trends. With over 39K medals awarded and 262K athletes competing since the first modern Olympics in 1896, the data reveals fascinating insights about the Games. That’s why I created this Olympics Dashboard, an interactive tool designed to analyze historical trends and provide valuable insights for sports analysts, journalists, and enthusiasts.
 
-## 📍 Why does this matter?
+## Why does this matter?
 This dashboard isn’t just about numbers—it tells the story of the Olympics through data. Whether you're a sports analyst, data enthusiast, or simply an Olympic fan, this tool uncovers patterns, celebrates achievements, and relives historic moments.
 Predictive analytics (e.g., which countries or sports are likely to dominate in future Olympics).
 From 1896 to 2024, the Olympics have evolved significantly, reflecting changes in sports, global participation, and gender representation. This dashboard isn’t just about numbers—it’s a powerful analytical tool that brings Olympic history to life. Whether you're a data scientist, sports analyst, or simply an Olympic fan, this tool uncovers patterns, celebrates achievements, and highlights evolving trends in the Games.
