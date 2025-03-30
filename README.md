@@ -30,6 +30,11 @@ From 1896 to 2024, the Olympics have evolved significantly, reflecting changes i
 ## Deliverables:
 1️⃣ A dynamic dashboard with interactive filters (countries, sports, gender, timeline).
 
+
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
 2️⃣ Key data insights (medal distribution, age trends, gender representation).
 
 3️⃣ Storytelling elements (historical context, visualization-driven insights).
