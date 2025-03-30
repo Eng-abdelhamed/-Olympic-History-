@@ -39,9 +39,5 @@ From 1896 to 2024, the Olympics have evolved significantly, reflecting changes i
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 📽️ Demo Video
-Click the thumbnail below to view the project demo on YouTube Shorts:
-
-[![Watch the Demo](https://www.linkedin.com/posts/abdelhamedahmed_datascience-datavisualization-powerbi-activity-7311985766467829762-qln-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbRBwgBvvtTTc3CMgcyvqBMU6ECEvqNHoI)
 
 
