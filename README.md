@@ -4,7 +4,7 @@ For over 120 years, the Olympic Games have showcased incredible performances, hi
 ## Why does this matter?
 This dashboard isn’t just about numbers—it tells the story of the Olympics through data. Whether you're a sports analyst, data enthusiast, or simply an Olympic fan, this tool uncovers patterns, celebrates achievements, and relives historic moments.
 Predictive analytics (e.g., which countries or sports are likely to dominate in future Olympics).
-From 1896 to 2024, the Olympics have evolved significantly, reflecting changes in sports, global participation, and gender representation. This dashboard isn’t just about numbers—it’s a powerful analytical tool that brings Olympic history to life. Whether you're a data scientist, sports analyst, or simply an Olympic fan, this tool uncovers patterns, celebrates achievements, and highlights evolving trends in the Games.
+From 1896 to 2024, the Olympics have evolved significantly, reflecting changes in sports, global participation, and gender representation. 
 
 ## Key Insights from the Data
 
